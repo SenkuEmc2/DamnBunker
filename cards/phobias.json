@@ -1,0 +1,230 @@
+[
+  {
+    "id": "phobias_001",
+    "title": "Замкнутые пространства",
+    "origin": "original",
+    "tags": []
+  },
+  {
+    "id": "phobias_002",
+    "title": "Высота",
+    "origin": "original",
+    "tags": []
+  },
+  {
+    "id": "phobias_003",
+    "title": "Глубокая вода",
+    "origin": "original",
+    "tags": []
+  },
+  {
+    "id": "phobias_004",
+    "title": "Темнота",
+    "origin": "original",
+    "tags": []
+  },
+  {
+    "id": "phobias_005",
+    "title": "Гром",
+    "origin": "original",
+    "tags": []
+  },
+  {
+    "id": "phobias_006",
+    "title": "Собаки",
+    "origin": "original",
+    "tags": []
+  },
+  {
+    "id": "phobias_007",
+    "title": "Пауки",
+    "origin": "original",
+    "tags": []
+  },
+  {
+    "id": "phobias_008",
+    "title": "Змеи",
+    "origin": "original",
+    "tags": []
+  },
+  {
+    "id": "phobias_009",
+    "title": "Насекомые",
+    "origin": "original",
+    "tags": []
+  },
+  {
+    "id": "phobias_010",
+    "title": "Иглы",
+    "origin": "original",
+    "tags": []
+  },
+  {
+    "id": "phobias_011",
+    "title": "Кровь",
+    "origin": "original",
+    "tags": []
+  },
+  {
+    "id": "phobias_012",
+    "title": "Лифты",
+    "origin": "original",
+    "tags": []
+  },
+  {
+    "id": "phobias_013",
+    "title": "Мосты",
+    "origin": "original",
+    "tags": []
+  },
+  {
+    "id": "phobias_014",
+    "title": "Тесная толпа",
+    "origin": "original",
+    "tags": []
+  },
+  {
+    "id": "phobias_015",
+    "title": "Одиночество",
+    "origin": "original",
+    "tags": []
+  },
+  {
+    "id": "phobias_016",
+    "title": "Резкие хлопки",
+    "origin": "original",
+    "tags": []
+  },
+  {
+    "id": "phobias_017",
+    "title": "Открытый огонь",
+    "origin": "original",
+    "tags": []
+  },
+  {
+    "id": "phobias_018",
+    "title": "Сильный ветер",
+    "origin": "original",
+    "tags": []
+  },
+  {
+    "id": "phobias_019",
+    "title": "Туман",
+    "origin": "original",
+    "tags": []
+  },
+  {
+    "id": "phobias_020",
+    "title": "Бурные реки",
+    "origin": "original",
+    "tags": []
+  },
+  {
+    "id": "phobias_021",
+    "title": "Плавание под водой",
+    "origin": "original",
+    "tags": []
+  },
+  {
+    "id": "phobias_022",
+    "title": "Пещеры",
+    "origin": "original",
+    "tags": []
+  },
+  {
+    "id": "phobias_023",
+    "title": "Крутые лестницы",
+    "origin": "original",
+    "tags": []
+  },
+  {
+    "id": "phobias_024",
+    "title": "Переход по тонкому льду",
+    "origin": "original",
+    "tags": []
+  },
+  {
+    "id": "phobias_025",
+    "title": "Полёт на самолёте",
+    "origin": "original",
+    "tags": []
+  },
+  {
+    "id": "phobias_026",
+    "title": "Звук сирены",
+    "origin": "original",
+    "tags": []
+  },
+  {
+    "id": "phobias_027",
+    "title": "Мыши",
+    "origin": "original",
+    "tags": []
+  },
+  {
+    "id": "phobias_028",
+    "title": "Летучие мыши",
+    "origin": "original",
+    "tags": []
+  },
+  {
+    "id": "phobias_029",
+    "title": "Трещины в скалах",
+    "origin": "original",
+    "tags": []
+  },
+  {
+    "id": "phobias_030",
+    "title": "Выступление перед группой",
+    "origin": "original",
+    "tags": []
+  },
+  {
+    "id": "phobias_discord_001",
+    "title": "Страх треска льда",
+    "tags": [],
+    "origin": "original"
+  },
+  {
+    "id": "phobias_discord_002",
+    "title": "Страх переговоров по рации",
+    "tags": [],
+    "origin": "original"
+  },
+  {
+    "id": "phobias_discord_003",
+    "title": "Страх неисправных лифтов",
+    "tags": [],
+    "origin": "original"
+  },
+  {
+    "id": "phobias_discord_004",
+    "title": "Страх пустых коридоров",
+    "tags": [],
+    "origin": "original"
+  },
+  {
+    "id": "phobias_discord_005",
+    "title": "Страх грохота вентиляции",
+    "tags": [],
+    "origin": "original"
+  },
+  {
+    "id": "phobias_discord_006",
+    "title": "Страх манекенов",
+    "tags": [],
+    "origin": "original"
+  },
+  {
+    "id": "phobias_discord_007",
+    "title": "Страх внезапного стука в дверь",
+    "tags": [],
+    "origin": "original"
+  },
+  {
+    "id": "phobias_discord_008",
+    "title": "Страх потерять ориентир в метели",
+    "tags": [],
+    "origin": "original"
+  }
+]

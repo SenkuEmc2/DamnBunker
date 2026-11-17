@@ -1,0 +1,445 @@
+[
+  {
+    "id": "baggage_001",
+    "title": "Зимний спальник",
+    "origin": "original",
+    "tags": [
+      "warmth"
+    ]
+  },
+  {
+    "id": "baggage_002",
+    "title": "Термобельё",
+    "origin": "original",
+    "tags": [
+      "warmth"
+    ]
+  },
+  {
+    "id": "baggage_003",
+    "title": "Шерстяные одеяла",
+    "origin": "original",
+    "tags": [
+      "warmth"
+    ]
+  },
+  {
+    "id": "baggage_004",
+    "title": "Пуховые варежки",
+    "origin": "original",
+    "tags": [
+      "warmth"
+    ]
+  },
+  {
+    "id": "baggage_005",
+    "title": "Теплоизоляционные коврики",
+    "origin": "original",
+    "tags": [
+      "warmth"
+    ]
+  },
+  {
+    "id": "baggage_006",
+    "title": "Рулон утеплителя",
+    "origin": "original",
+    "tags": [
+      "warmth"
+    ]
+  },
+  {
+    "id": "baggage_007",
+    "title": "Утеплённые сапоги",
+    "origin": "original",
+    "tags": [
+      "warmth"
+    ]
+  },
+  {
+    "id": "baggage_008",
+    "title": "Термос",
+    "origin": "original",
+    "tags": [
+      "warmth"
+    ]
+  },
+  {
+    "id": "baggage_009",
+    "title": "Комплект ветрозащитной одежды",
+    "origin": "original",
+    "tags": [
+      "warmth"
+    ]
+  },
+  {
+    "id": "baggage_010",
+    "title": "Теплоотражающее покрывало",
+    "origin": "original",
+    "tags": [
+      "warmth"
+    ]
+  },
+  {
+    "id": "baggage_011",
+    "title": "Набор ручных инструментов",
+    "origin": "original",
+    "tags": [
+      "repair"
+    ]
+  },
+  {
+    "id": "baggage_012",
+    "title": "Запасные предохранители",
+    "origin": "original",
+    "tags": [
+      "repair"
+    ]
+  },
+  {
+    "id": "baggage_013",
+    "title": "Изолента",
+    "origin": "original",
+    "tags": [
+      "repair"
+    ]
+  },
+  {
+    "id": "baggage_014",
+    "title": "Мультиметр",
+    "origin": "original",
+    "tags": [
+      "repair"
+    ]
+  },
+  {
+    "id": "baggage_015",
+    "title": "Кабель в бухте",
+    "origin": "original",
+    "tags": [
+      "repair"
+    ]
+  },
+  {
+    "id": "baggage_016",
+    "title": "Складная пила",
+    "origin": "original",
+    "tags": [
+      "repair"
+    ]
+  },
+  {
+    "id": "baggage_017",
+    "title": "Ремнабор для ткани",
+    "origin": "original",
+    "tags": [
+      "repair"
+    ]
+  },
+  {
+    "id": "baggage_018",
+    "title": "Комплект прокладок",
+    "origin": "original",
+    "tags": [
+      "repair"
+    ]
+  },
+  {
+    "id": "baggage_019",
+    "title": "Запасные крепления",
+    "origin": "original",
+    "tags": [
+      "repair"
+    ]
+  },
+  {
+    "id": "baggage_020",
+    "title": "Тюбик универсального клея",
+    "origin": "original",
+    "tags": [
+      "repair"
+    ]
+  },
+  {
+    "id": "baggage_021",
+    "title": "Механический фильтр для воды",
+    "origin": "original",
+    "tags": [
+      "water_food"
+    ]
+  },
+  {
+    "id": "baggage_022",
+    "title": "Складные канистры",
+    "origin": "original",
+    "tags": [
+      "water_food"
+    ]
+  },
+  {
+    "id": "baggage_023",
+    "title": "Пакет семян",
+    "origin": "original",
+    "tags": [
+      "water_food"
+    ]
+  },
+  {
+    "id": "baggage_024",
+    "title": "Запас сухих круп",
+    "origin": "original",
+    "tags": [
+      "water_food"
+    ]
+  },
+  {
+    "id": "baggage_025",
+    "title": "Консервы",
+    "origin": "original",
+    "tags": [
+      "water_food"
+    ]
+  },
+  {
+    "id": "baggage_026",
+    "title": "Сухие дрожжи",
+    "origin": "original",
+    "tags": [
+      "water_food"
+    ]
+  },
+  {
+    "id": "baggage_027",
+    "title": "Складная ёмкость для сбора воды",
+    "origin": "original",
+    "tags": [
+      "water_food"
+    ]
+  },
+  {
+    "id": "baggage_028",
+    "title": "Ручная мельница",
+    "origin": "original",
+    "tags": [
+      "water_food"
+    ]
+  },
+  {
+    "id": "baggage_029",
+    "title": "Книга рецептов из запасов",
+    "origin": "original",
+    "tags": [
+      "water_food"
+    ]
+  },
+  {
+    "id": "baggage_030",
+    "title": "Пакеты для хранения еды",
+    "origin": "original",
+    "tags": [
+      "water_food"
+    ]
+  },
+  {
+    "id": "baggage_031",
+    "title": "Ручной фонарь с динамо",
+    "origin": "original",
+    "tags": [
+      "power_signal"
+    ]
+  },
+  {
+    "id": "baggage_032",
+    "title": "Запас батареек",
+    "origin": "original",
+    "tags": [
+      "power_signal"
+    ]
+  },
+  {
+    "id": "baggage_033",
+    "title": "Портативный радиоприёмник",
+    "origin": "original",
+    "tags": [
+      "power_signal"
+    ]
+  },
+  {
+    "id": "baggage_034",
+    "title": "Комплект раций",
+    "origin": "original",
+    "tags": [
+      "power_signal"
+    ]
+  },
+  {
+    "id": "baggage_035",
+    "title": "Запасная антенна",
+    "origin": "original",
+    "tags": [
+      "power_signal"
+    ]
+  },
+  {
+    "id": "baggage_036",
+    "title": "Портативная солнечная панель",
+    "origin": "original",
+    "tags": [
+      "power_signal"
+    ]
+  },
+  {
+    "id": "baggage_037",
+    "title": "Заряженный внешний аккумулятор",
+    "origin": "original",
+    "tags": [
+      "power_signal"
+    ]
+  },
+  {
+    "id": "baggage_038",
+    "title": "Сигнальное зеркало",
+    "origin": "original",
+    "tags": [
+      "power_signal"
+    ]
+  },
+  {
+    "id": "baggage_039",
+    "title": "Карта частот аварийной связи",
+    "origin": "original",
+    "tags": [
+      "power_signal"
+    ]
+  },
+  {
+    "id": "baggage_040",
+    "title": "Катушка сигнального провода",
+    "origin": "original",
+    "tags": [
+      "power_signal"
+    ]
+  },
+  {
+    "id": "baggage_041",
+    "title": "Настольная игра",
+    "origin": "original",
+    "tags": []
+  },
+  {
+    "id": "baggage_042",
+    "title": "Колода игральных карт",
+    "origin": "original",
+    "tags": []
+  },
+  {
+    "id": "baggage_043",
+    "title": "Полароид без кассеты",
+    "origin": "original",
+    "tags": []
+  },
+  {
+    "id": "baggage_044",
+    "title": "Коробка карандашей",
+    "origin": "original",
+    "tags": []
+  },
+  {
+    "id": "baggage_045",
+    "title": "Книга стихов",
+    "origin": "original",
+    "tags": []
+  },
+  {
+    "id": "baggage_046",
+    "title": "Набор полотенец",
+    "origin": "original",
+    "tags": []
+  },
+  {
+    "id": "baggage_047",
+    "title": "Пустой походный рюкзак",
+    "origin": "original",
+    "tags": []
+  },
+  {
+    "id": "baggage_048",
+    "title": "Аптечка первой помощи",
+    "origin": "original",
+    "tags": []
+  },
+  {
+    "id": "baggage_049",
+    "title": "Бумажная карта района",
+    "origin": "original",
+    "tags": []
+  },
+  {
+    "id": "baggage_050",
+    "title": "Моток верёвки",
+    "origin": "original",
+    "tags": []
+  },
+  {
+    "id": "baggage_discord_001",
+    "title": "Зимний спальник с ремонтным набором",
+    "tags": [
+      "warmth",
+      "repair"
+    ],
+    "origin": "original"
+  },
+  {
+    "id": "baggage_discord_002",
+    "title": "Ручной генератор и переходники",
+    "tags": [
+      "power_signal"
+    ],
+    "origin": "original"
+  },
+  {
+    "id": "baggage_discord_003",
+    "title": "Портативный коротковолновый передатчик",
+    "tags": [
+      "radio"
+    ],
+    "origin": "original"
+  },
+  {
+    "id": "baggage_discord_004",
+    "title": "Рулон утеплителя и армированный скотч",
+    "tags": [
+      "insulation"
+    ],
+    "origin": "original"
+  },
+  {
+    "id": "baggage_discord_005",
+    "title": "Ящик инструментов для ремонта отопления",
+    "tags": [
+      "repair"
+    ],
+    "origin": "original"
+  },
+  {
+    "id": "baggage_discord_006",
+    "title": "Герметичный мешок тёплых вещей",
+    "tags": [
+      "warmth"
+    ],
+    "origin": "original"
+  },
+  {
+    "id": "baggage_discord_007",
+    "title": "Фильтр для воды и складные канистры",
+    "tags": [
+      "water_food"
+    ],
+    "origin": "original"
+  },
+  {
+    "id": "baggage_discord_008",
+    "title": "Огромный плюшевый гусь",
+    "tags": [],
+    "origin": "original"
+  }
+]

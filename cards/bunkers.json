@@ -1,0 +1,654 @@
+[
+  {
+    "id": "bunker_1",
+    "title": "Подземная станция",
+    "areaM2": 90,
+    "stayDays": 14,
+    "foodPortions": 30,
+    "waterPortions": 42,
+    "beds": 2,
+    "heating": "перебои",
+    "ventilation": "штатная",
+    "power": "резервное",
+    "initialDetailIds": [
+      "detail_1"
+    ],
+    "revealDetailIds": [
+      "detail_2"
+    ],
+    "origin": "original",
+    "detailPoolIds": [
+      "detail_1",
+      "detail_2",
+      "detail_7",
+      "detail_19",
+      "detail_10",
+      "detail_23",
+      "detail_31",
+      "detail_34",
+      "detail_37"
+    ],
+    "ranges": {
+      "foodPortions": [
+        24,
+        36
+      ],
+      "waterPortions": [
+        36,
+        48
+      ],
+      "beds": [
+        1,
+        3
+      ]
+    },
+    "systemOptions": {
+      "heating": [
+        "перебои",
+        "выключено"
+      ],
+      "power": [
+        "резервное",
+        "штатное"
+      ]
+    }
+  },
+  {
+    "id": "bunker_2",
+    "title": "Убежище на возвышенности",
+    "areaM2": 125,
+    "stayDays": 10,
+    "foodPortions": 36,
+    "waterPortions": 28,
+    "beds": 4,
+    "heating": "штатное",
+    "ventilation": "штатная",
+    "power": "штатное",
+    "initialDetailIds": [
+      "detail_13"
+    ],
+    "revealDetailIds": [
+      "detail_9"
+    ],
+    "origin": "original",
+    "detailPoolIds": [
+      "detail_13",
+      "detail_9",
+      "detail_12",
+      "detail_18",
+      "detail_29",
+      "detail_21",
+      "detail_32",
+      "detail_35",
+      "detail_38"
+    ],
+    "ranges": {
+      "foodPortions": [
+        30,
+        42
+      ],
+      "waterPortions": [
+        22,
+        34
+      ],
+      "beds": [
+        3,
+        5
+      ]
+    },
+    "systemOptions": {
+      "heating": [
+        "перебои",
+        "выключено"
+      ],
+      "power": [
+        "штатное",
+        "резервное"
+      ]
+    }
+  },
+  {
+    "id": "bunker_3",
+    "title": "Шахтное убежище",
+    "areaM2": 75,
+    "stayDays": 8,
+    "foodPortions": 28,
+    "waterPortions": 28,
+    "beds": 3,
+    "heating": "штатное",
+    "ventilation": "перебои",
+    "power": "штатное",
+    "initialDetailIds": [
+      "detail_15"
+    ],
+    "revealDetailIds": [
+      "detail_27"
+    ],
+    "origin": "original",
+    "detailPoolIds": [
+      "detail_15",
+      "detail_27",
+      "detail_23",
+      "detail_19",
+      "detail_10",
+      "detail_33",
+      "detail_36",
+      "detail_39"
+    ],
+    "ranges": {
+      "foodPortions": [
+        22,
+        34
+      ],
+      "waterPortions": [
+        22,
+        34
+      ],
+      "beds": [
+        2,
+        4
+      ]
+    },
+    "systemOptions": {
+      "heating": [
+        "перебои",
+        "выключено"
+      ],
+      "power": [
+        "штатное",
+        "резервное"
+      ]
+    }
+  },
+  {
+    "id": "bunker_4",
+    "title": "Сервисный подвал",
+    "areaM2": 65,
+    "stayDays": 7,
+    "foodPortions": 20,
+    "waterPortions": 30,
+    "beds": 2,
+    "heating": "штатное",
+    "ventilation": "штатная",
+    "power": "резервное",
+    "initialDetailIds": [
+      "detail_19"
+    ],
+    "revealDetailIds": [
+      "detail_25"
+    ],
+    "origin": "original",
+    "detailPoolIds": [
+      "detail_19",
+      "detail_25",
+      "detail_1",
+      "detail_2",
+      "detail_5",
+      "detail_24",
+      "detail_18",
+      "detail_34",
+      "detail_37",
+      "detail_40"
+    ],
+    "ranges": {
+      "foodPortions": [
+        14,
+        26
+      ],
+      "waterPortions": [
+        24,
+        36
+      ],
+      "beds": [
+        1,
+        3
+      ]
+    },
+    "systemOptions": {
+      "heating": [
+        "перебои",
+        "выключено"
+      ],
+      "power": [
+        "резервное",
+        "штатное"
+      ]
+    }
+  },
+  {
+    "id": "bunker_5",
+    "title": "Резервный водопункт",
+    "areaM2": 108,
+    "stayDays": 18,
+    "foodPortions": 60,
+    "waterPortions": 22,
+    "beds": 5,
+    "heating": "штатное",
+    "ventilation": "штатная",
+    "power": "штатное",
+    "initialDetailIds": [
+      "detail_13"
+    ],
+    "revealDetailIds": [
+      "detail_4"
+    ],
+    "origin": "original",
+    "detailPoolIds": [
+      "detail_13",
+      "detail_4",
+      "detail_6",
+      "detail_12",
+      "detail_14",
+      "detail_21",
+      "detail_18",
+      "detail_35",
+      "detail_38",
+      "detail_31"
+    ],
+    "ranges": {
+      "foodPortions": [
+        54,
+        66
+      ],
+      "waterPortions": [
+        16,
+        28
+      ],
+      "beds": [
+        4,
+        6
+      ]
+    },
+    "systemOptions": {
+      "heating": [
+        "перебои",
+        "выключено"
+      ],
+      "power": [
+        "штатное",
+        "резервное"
+      ]
+    }
+  },
+  {
+    "id": "bunker_6",
+    "title": "Подземный центр связи",
+    "areaM2": 85,
+    "stayDays": 12,
+    "foodPortions": 32,
+    "waterPortions": 34,
+    "beds": 4,
+    "heating": "штатное",
+    "ventilation": "перебои",
+    "power": "штатное",
+    "initialDetailIds": [
+      "detail_27"
+    ],
+    "revealDetailIds": [
+      "detail_2"
+    ],
+    "origin": "original",
+    "detailPoolIds": [
+      "detail_27",
+      "detail_2",
+      "detail_15",
+      "detail_25",
+      "detail_11",
+      "detail_19",
+      "detail_36",
+      "detail_39",
+      "detail_32"
+    ],
+    "ranges": {
+      "foodPortions": [
+        26,
+        38
+      ],
+      "waterPortions": [
+        28,
+        40
+      ],
+      "beds": [
+        3,
+        5
+      ]
+    },
+    "systemOptions": {
+      "heating": [
+        "перебои",
+        "выключено"
+      ],
+      "power": [
+        "штатное",
+        "резервное"
+      ]
+    }
+  },
+  {
+    "id": "bunker_7",
+    "title": "Укрытие дорожной службы",
+    "areaM2": 95,
+    "stayDays": 10,
+    "foodPortions": 30,
+    "waterPortions": 35,
+    "beds": 3,
+    "heating": "выключено",
+    "ventilation": "штатная",
+    "power": "резервное",
+    "initialDetailIds": [
+      "detail_1"
+    ],
+    "revealDetailIds": [
+      "detail_7"
+    ],
+    "origin": "original",
+    "detailPoolIds": [
+      "detail_1",
+      "detail_7",
+      "detail_19",
+      "detail_22",
+      "detail_3",
+      "detail_26",
+      "detail_18",
+      "detail_2",
+      "detail_37",
+      "detail_40",
+      "detail_33"
+    ],
+    "ranges": {
+      "foodPortions": [
+        24,
+        36
+      ],
+      "waterPortions": [
+        29,
+        41
+      ],
+      "beds": [
+        2,
+        4
+      ]
+    },
+    "systemOptions": {
+      "heating": [
+        "перебои",
+        "выключено"
+      ],
+      "power": [
+        "резервное",
+        "штатное"
+      ]
+    }
+  },
+  {
+    "id": "bunker_8",
+    "title": "Укрытие лесной станции",
+    "areaM2": 78,
+    "stayDays": 8,
+    "foodPortions": 32,
+    "waterPortions": 26,
+    "beds": 3,
+    "heating": "штатное",
+    "ventilation": "перебои",
+    "power": "штатное",
+    "initialDetailIds": [
+      "detail_15"
+    ],
+    "revealDetailIds": [
+      "detail_18"
+    ],
+    "origin": "original",
+    "detailPoolIds": [
+      "detail_15",
+      "detail_18",
+      "detail_9",
+      "detail_11",
+      "detail_23",
+      "detail_10",
+      "detail_38",
+      "detail_31",
+      "detail_34"
+    ],
+    "ranges": {
+      "foodPortions": [
+        26,
+        38
+      ],
+      "waterPortions": [
+        20,
+        32
+      ],
+      "beds": [
+        2,
+        4
+      ]
+    },
+    "systemOptions": {
+      "heating": [
+        "перебои",
+        "выключено"
+      ],
+      "power": [
+        "штатное",
+        "резервное"
+      ]
+    }
+  },
+  {
+    "id": "bunker_9",
+    "title": "Горный склад",
+    "areaM2": 114,
+    "stayDays": 14,
+    "foodPortions": 46,
+    "waterPortions": 40,
+    "beds": 4,
+    "heating": "штатное",
+    "ventilation": "штатная",
+    "power": "штатное",
+    "initialDetailIds": [
+      "detail_9"
+    ],
+    "revealDetailIds": [
+      "detail_22"
+    ],
+    "origin": "original",
+    "detailPoolIds": [
+      "detail_9",
+      "detail_22",
+      "detail_7",
+      "detail_2",
+      "detail_18",
+      "detail_8",
+      "detail_15",
+      "detail_39",
+      "detail_32",
+      "detail_35"
+    ],
+    "ranges": {
+      "foodPortions": [
+        40,
+        52
+      ],
+      "waterPortions": [
+        34,
+        46
+      ],
+      "beds": [
+        3,
+        5
+      ]
+    },
+    "systemOptions": {
+      "heating": [
+        "перебои",
+        "выключено"
+      ],
+      "power": [
+        "штатное",
+        "резервное"
+      ]
+    }
+  },
+  {
+    "id": "bunker_10",
+    "title": "Глубокий склад",
+    "areaM2": 140,
+    "stayDays": 15,
+    "foodPortions": 48,
+    "waterPortions": 38,
+    "beds": 5,
+    "heating": "штатное",
+    "ventilation": "штатная",
+    "power": "резервное",
+    "initialDetailIds": [
+      "detail_12"
+    ],
+    "revealDetailIds": [
+      "detail_19"
+    ],
+    "origin": "original",
+    "detailPoolIds": [
+      "detail_12",
+      "detail_19",
+      "detail_4",
+      "detail_20",
+      "detail_6",
+      "detail_18",
+      "detail_40",
+      "detail_33",
+      "detail_36"
+    ],
+    "ranges": {
+      "foodPortions": [
+        42,
+        54
+      ],
+      "waterPortions": [
+        32,
+        44
+      ],
+      "beds": [
+        4,
+        6
+      ]
+    },
+    "systemOptions": {
+      "heating": [
+        "перебои",
+        "выключено"
+      ],
+      "power": [
+        "резервное",
+        "штатное"
+      ]
+    }
+  },
+  {
+    "id": "bunker_11",
+    "title": "Сельский резервный склад",
+    "areaM2": 120,
+    "stayDays": 21,
+    "foodPortions": 35,
+    "waterPortions": 62,
+    "beds": 4,
+    "heating": "штатное",
+    "ventilation": "штатная",
+    "power": "штатное",
+    "initialDetailIds": [
+      "detail_4"
+    ],
+    "revealDetailIds": [
+      "detail_8"
+    ],
+    "origin": "original",
+    "detailPoolIds": [
+      "detail_4",
+      "detail_8",
+      "detail_14",
+      "detail_21",
+      "detail_16",
+      "detail_30",
+      "detail_31",
+      "detail_34",
+      "detail_37"
+    ],
+    "ranges": {
+      "foodPortions": [
+        29,
+        41
+      ],
+      "waterPortions": [
+        56,
+        68
+      ],
+      "beds": [
+        3,
+        5
+      ]
+    },
+    "systemOptions": {
+      "heating": [
+        "перебои",
+        "выключено"
+      ],
+      "power": [
+        "штатное",
+        "резервное"
+      ]
+    }
+  },
+  {
+    "id": "bunker_12",
+    "title": "Укрытие маяка",
+    "areaM2": 60,
+    "stayDays": 9,
+    "foodPortions": 27,
+    "waterPortions": 31,
+    "beds": 3,
+    "heating": "штатное",
+    "ventilation": "штатная",
+    "power": "штатное",
+    "initialDetailIds": [
+      "detail_25"
+    ],
+    "revealDetailIds": [
+      "detail_18"
+    ],
+    "origin": "original",
+    "detailPoolIds": [
+      "detail_25",
+      "detail_18",
+      "detail_2",
+      "detail_9",
+      "detail_5",
+      "detail_28",
+      "detail_32",
+      "detail_35",
+      "detail_38"
+    ],
+    "ranges": {
+      "foodPortions": [
+        21,
+        33
+      ],
+      "waterPortions": [
+        25,
+        37
+      ],
+      "beds": [
+        2,
+        4
+      ]
+    },
+    "systemOptions": {
+      "heating": [
+        "перебои",
+        "выключено"
+      ],
+      "power": [
+        "штатное",
+        "резервное"
+      ]
+    }
+  }
+]

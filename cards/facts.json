@@ -1,0 +1,586 @@
+[
+  {
+    "id": "facts_001",
+    "title": "Участвовал в поисках потерявшейся группы",
+    "origin": "original",
+    "tags": [
+      "navigation"
+    ]
+  },
+  {
+    "id": "facts_002",
+    "title": "Знает обходной путь к станции",
+    "origin": "original",
+    "tags": [
+      "navigation"
+    ]
+  },
+  {
+    "id": "facts_003",
+    "title": "Жил месяц в полярном посёлке",
+    "origin": "original",
+    "tags": [
+      "navigation"
+    ]
+  },
+  {
+    "id": "facts_004",
+    "title": "Работал волонтёром на эвакуации",
+    "origin": "original",
+    "tags": [
+      "navigation"
+    ]
+  },
+  {
+    "id": "facts_005",
+    "title": "Провёл ночь в заснеженном домике без отопления",
+    "origin": "original",
+    "tags": [
+      "navigation"
+    ]
+  },
+  {
+    "id": "facts_006",
+    "title": "Умеет читать бумажную карту",
+    "origin": "original",
+    "tags": [
+      "navigation"
+    ]
+  },
+  {
+    "id": "facts_007",
+    "title": "Несколько лет ходил в спелеологический клуб",
+    "origin": "original",
+    "tags": [
+      "navigation"
+    ]
+  },
+  {
+    "id": "facts_008",
+    "title": "Знает план подземного перехода",
+    "origin": "original",
+    "tags": [
+      "navigation"
+    ]
+  },
+  {
+    "id": "facts_009",
+    "title": "Помогал искать людей после паводка",
+    "origin": "original",
+    "tags": [
+      "navigation"
+    ]
+  },
+  {
+    "id": "facts_010",
+    "title": "Строил укрытие на зимних сборах",
+    "origin": "original",
+    "tags": [
+      "navigation"
+    ]
+  },
+  {
+    "id": "facts_011",
+    "title": "Собирал походную печь под присмотром мастера",
+    "origin": "original",
+    "tags": [
+      "repair"
+    ]
+  },
+  {
+    "id": "facts_012",
+    "title": "Помогал обслуживать насосную станцию",
+    "origin": "original",
+    "tags": [
+      "repair"
+    ]
+  },
+  {
+    "id": "facts_013",
+    "title": "Вёл журнал неисправностей в общежитии",
+    "origin": "original",
+    "tags": [
+      "repair"
+    ]
+  },
+  {
+    "id": "facts_014",
+    "title": "Умеет шить плотную ткань",
+    "origin": "original",
+    "tags": [
+      "repair"
+    ]
+  },
+  {
+    "id": "facts_015",
+    "title": "Работал учеником в столярной мастерской",
+    "origin": "original",
+    "tags": [
+      "repair"
+    ]
+  },
+  {
+    "id": "facts_016",
+    "title": "Знает расположение щита в этом здании",
+    "origin": "original",
+    "tags": [
+      "repair"
+    ]
+  },
+  {
+    "id": "facts_017",
+    "title": "Восстанавливал мебель после затопления",
+    "origin": "original",
+    "tags": [
+      "repair"
+    ]
+  },
+  {
+    "id": "facts_018",
+    "title": "Помогал менять фильтры в школьной вентиляции",
+    "origin": "original",
+    "tags": [
+      "repair"
+    ]
+  },
+  {
+    "id": "facts_019",
+    "title": "Чинил велосипеды в волонтёрской мастерской",
+    "origin": "original",
+    "tags": [
+      "repair"
+    ]
+  },
+  {
+    "id": "facts_020",
+    "title": "Собрал работающий ручной фонарь",
+    "origin": "original",
+    "tags": [
+      "repair"
+    ]
+  },
+  {
+    "id": "facts_021",
+    "title": "Выращивал зелень в подвале",
+    "origin": "original",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "facts_022",
+    "title": "Следил за запасами на туристической базе",
+    "origin": "original",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "facts_023",
+    "title": "Вёл учёт воды в длительном походе",
+    "origin": "original",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "facts_024",
+    "title": "Помогал собирать семена для питомника",
+    "origin": "original",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "facts_025",
+    "title": "Несколько лет заготавливал овощи на зиму",
+    "origin": "original",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "facts_026",
+    "title": "Организовал кухню на полевом фестивале",
+    "origin": "original",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "facts_027",
+    "title": "Умеет готовить на десяток человек",
+    "origin": "original",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "facts_028",
+    "title": "Работал на фасовке круп",
+    "origin": "original",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "facts_029",
+    "title": "Выращивал рассаду для соседей",
+    "origin": "original",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "facts_030",
+    "title": "Участвовал в работе общественного сада",
+    "origin": "original",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "facts_031",
+    "title": "Помнит позывной соседнего убежища",
+    "origin": "original",
+    "tags": [
+      "communications"
+    ]
+  },
+  {
+    "id": "facts_032",
+    "title": "Собирал радиостанцию в кружке",
+    "origin": "original",
+    "tags": [
+      "communications"
+    ]
+  },
+  {
+    "id": "facts_033",
+    "title": "Работал дежурным на школьном радио",
+    "origin": "original",
+    "tags": [
+      "communications"
+    ]
+  },
+  {
+    "id": "facts_034",
+    "title": "Читает по губам",
+    "origin": "original",
+    "tags": [
+      "communications"
+    ]
+  },
+  {
+    "id": "facts_035",
+    "title": "Умеет составлять короткие радиосводки",
+    "origin": "original",
+    "tags": [
+      "communications"
+    ]
+  },
+  {
+    "id": "facts_036",
+    "title": "Дежурил на связи во время похода",
+    "origin": "original",
+    "tags": [
+      "communications"
+    ]
+  },
+  {
+    "id": "facts_037",
+    "title": "Хранит в памяти номер аварийного канала",
+    "origin": "original",
+    "tags": [
+      "communications"
+    ]
+  },
+  {
+    "id": "facts_038",
+    "title": "Вёл метеожурнал в экспедиции",
+    "origin": "original",
+    "tags": [
+      "communications"
+    ]
+  },
+  {
+    "id": "facts_039",
+    "title": "Умеет разбирать рукописные технические журналы",
+    "origin": "original",
+    "tags": [
+      "communications"
+    ]
+  },
+  {
+    "id": "facts_040",
+    "title": "Переводил для туристов на границе",
+    "origin": "original",
+    "tags": [
+      "communications"
+    ]
+  },
+  {
+    "id": "facts_041",
+    "title": "Прошёл курс первой помощи",
+    "origin": "original",
+    "tags": [
+      "care"
+    ]
+  },
+  {
+    "id": "facts_042",
+    "title": "Волонтёрил в пункте обогрева",
+    "origin": "original",
+    "tags": [
+      "care"
+    ]
+  },
+  {
+    "id": "facts_043",
+    "title": "Помогал ухаживать за животными в приюте",
+    "origin": "original",
+    "tags": [
+      "care"
+    ]
+  },
+  {
+    "id": "facts_044",
+    "title": "Способен сохранять спокойствие в давке",
+    "origin": "original",
+    "tags": [
+      "care"
+    ]
+  },
+  {
+    "id": "facts_045",
+    "title": "Вёл ночные дежурства на выездной смене",
+    "origin": "original",
+    "tags": [
+      "care"
+    ]
+  },
+  {
+    "id": "facts_046",
+    "title": "Работал помощником в центре реабилитации",
+    "origin": "original",
+    "tags": [
+      "care"
+    ]
+  },
+  {
+    "id": "facts_047",
+    "title": "Организовывал смены волонтёров",
+    "origin": "original",
+    "tags": [
+      "care"
+    ]
+  },
+  {
+    "id": "facts_048",
+    "title": "Умеет объяснять инструкции без общего языка",
+    "origin": "original",
+    "tags": [
+      "care"
+    ]
+  },
+  {
+    "id": "facts_049",
+    "title": "Помогал проводить учения в школе",
+    "origin": "original",
+    "tags": [
+      "care"
+    ]
+  },
+  {
+    "id": "facts_050",
+    "title": "Составлял журнал запасов аптечки",
+    "origin": "original",
+    "tags": [
+      "care"
+    ]
+  },
+  {
+    "id": "facts_051",
+    "title": "Никогда не жил вне большого города",
+    "origin": "original",
+    "tags": []
+  },
+  {
+    "id": "facts_052",
+    "title": "Собирает истории о пропавших экспедициях",
+    "origin": "original",
+    "tags": []
+  },
+  {
+    "id": "facts_053",
+    "title": "Панически не любит проигрывать в шахматы",
+    "origin": "original",
+    "tags": []
+  },
+  {
+    "id": "facts_054",
+    "title": "Обещал вернуться за другом",
+    "origin": "original",
+    "tags": []
+  },
+  {
+    "id": "facts_055",
+    "title": "Подрабатывал экскурсоводом в музее",
+    "origin": "original",
+    "tags": []
+  },
+  {
+    "id": "facts_056",
+    "title": "Уступил своё место в эвакуационном автобусе",
+    "origin": "original",
+    "tags": []
+  },
+  {
+    "id": "facts_057",
+    "title": "Коллекционирует старые ключи",
+    "origin": "original",
+    "tags": []
+  },
+  {
+    "id": "facts_058",
+    "title": "Помнит наизусть десятки песен",
+    "origin": "original",
+    "tags": []
+  },
+  {
+    "id": "facts_059",
+    "title": "Никогда не пробовал кофе",
+    "origin": "original",
+    "tags": []
+  },
+  {
+    "id": "facts_060",
+    "title": "В детстве снимался в рекламе",
+    "origin": "original",
+    "tags": []
+  },
+  {
+    "id": "facts_061",
+    "title": "Однажды потерял все вещи в дороге",
+    "origin": "original",
+    "tags": []
+  },
+  {
+    "id": "facts_062",
+    "title": "Известен среди друзей как человек слова",
+    "origin": "original",
+    "tags": []
+  },
+  {
+    "id": "facts_063",
+    "title": "Пишет дневник с датами и погодой",
+    "origin": "original",
+    "tags": []
+  },
+  {
+    "id": "facts_064",
+    "title": "Несколько лет играл в любительском оркестре",
+    "origin": "original",
+    "tags": []
+  },
+  {
+    "id": "facts_065",
+    "title": "Ухаживал за школьным аквариумом",
+    "origin": "original",
+    "tags": []
+  },
+  {
+    "id": "facts_066",
+    "title": "Вёл кружок настольных игр",
+    "origin": "original",
+    "tags": []
+  },
+  {
+    "id": "facts_067",
+    "title": "После аварии избегает ночных поездок",
+    "origin": "original",
+    "tags": []
+  },
+  {
+    "id": "facts_068",
+    "title": "Однажды сутки провёл без связи",
+    "origin": "original",
+    "tags": []
+  },
+  {
+    "id": "facts_069",
+    "title": "Помогал восстанавливать архив после протечки",
+    "origin": "original",
+    "tags": []
+  },
+  {
+    "id": "facts_070",
+    "title": "Умеет запоминать длинные списки",
+    "origin": "original",
+    "tags": []
+  },
+  {
+    "id": "facts_discord_001",
+    "title": "Провёл зиму на удалённой метеостанции",
+    "tags": [
+      "winter_experience"
+    ],
+    "origin": "original"
+  },
+  {
+    "id": "facts_discord_002",
+    "title": "Помогал утеплять старое убежище",
+    "tags": [
+      "insulation",
+      "repair"
+    ],
+    "origin": "original"
+  },
+  {
+    "id": "facts_discord_003",
+    "title": "Умеет передавать сообщения азбукой Морзе",
+    "tags": [
+      "radio_operator"
+    ],
+    "origin": "original"
+  },
+  {
+    "id": "facts_discord_004",
+    "title": "Однажды восстановил питание целого подъезда",
+    "tags": [
+      "electrical"
+    ],
+    "origin": "original"
+  },
+  {
+    "id": "facts_discord_005",
+    "title": "Вёл учёт запасов в походе на двадцать человек",
+    "tags": [
+      "logistics"
+    ],
+    "origin": "original"
+  },
+  {
+    "id": "facts_discord_006",
+    "title": "Помнит схему технических тоннелей района",
+    "tags": [
+      "navigation"
+    ],
+    "origin": "original"
+  },
+  {
+    "id": "facts_discord_007",
+    "title": "Умеет мирить людей после тяжёлой ссоры",
+    "tags": [
+      "social",
+      "care"
+    ],
+    "origin": "original"
+  },
+  {
+    "id": "facts_discord_008",
+    "title": "Уверен, что плюшевый гусь приносит удачу",
+    "tags": [],
+    "origin": "original"
+  }
+]

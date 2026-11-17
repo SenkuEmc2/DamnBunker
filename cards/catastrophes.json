@@ -1,0 +1,616 @@
+[
+  {
+    "id": "catastrophe_1",
+    "title": "Сильный мороз",
+    "outsideRisk": "Метель отрезала район. Здания быстро остывают.",
+    "compatibleBunkerIds": [
+      "bunker_1",
+      "bunker_7",
+      "bunker_9"
+    ],
+    "origin": "original",
+    "final": {
+      "status": "prototype",
+      "challenges": [
+        {
+          "key": "тепло",
+          "anyTagCombination": [
+            [
+              "electrical",
+              "workshop"
+            ],
+            [
+              "winter_experience",
+              "warmth"
+            ]
+          ]
+        },
+        {
+          "key": "связь",
+          "anyTagCombination": [
+            [
+              "radio_operator",
+              "radio"
+            ],
+            [
+              "radio",
+              "power"
+            ],
+            [
+              "radio_operator",
+              "power_signal"
+            ],
+            [
+              "communications",
+              "signal"
+            ]
+          ]
+        }
+      ],
+      "automaticChoice": "heating",
+      "choices": [
+        {
+          "id": "heating",
+          "title": "Направить резерв на отопление"
+        },
+        {
+          "id": "radio",
+          "title": "Направить резерв на радиосвязь"
+        }
+      ],
+      "rules": {
+        "ruleOrder": [
+          "heat",
+          "rescue",
+          "rations"
+        ],
+        "heat": {
+          "poweredRequiresAny": [
+            [
+              "electrical",
+              "workshop"
+            ],
+            [
+              "repair",
+              "workshop"
+            ],
+            [
+              "engineering",
+              "repair"
+            ]
+          ],
+          "passiveRequiresAny": [
+            [
+              "winter_experience",
+              "warmth"
+            ],
+            [
+              "insulation",
+              "warmth"
+            ]
+          ],
+          "poweredRepairNeeds": "heating_choice_or_mains_power",
+          "failureWithoutEarlyRescue": "no_survivors",
+          "failureWithEarlyRescue": "players_with_warmth_or_winter_experience_survive"
+        },
+        "rescue": {
+          "requiresAny": [
+            [
+              "radio",
+              "radio_operator"
+            ],
+            [
+              "radio",
+              "power_signal"
+            ]
+          ],
+          "earlyRescueChoice": "radio",
+          "earlyRescueDays": 1
+        },
+        "rations": {
+          "portionsPerPersonPerDay": 1,
+          "waterPortionsPerPersonPerDay": 1,
+          "requiredDays": "early_rescue_days_or_stay_days",
+          "ifShort": "no_survivors",
+          "note": "Пробное правило: запасов должно хватить на всю группу; индивидуальный выбор жертв не моделируется."
+        }
+      },
+      "story": {
+        "heatSuccess": "Группа сохранила тепло в убежище.",
+        "heatFailure": "Согреть убежище не удалось.",
+        "earlyRescue": "Группа вышла на связь и дождалась эвакуации.",
+        "rationShortage": "Запасов не хватило на всю группу."
+      }
+    }
+  },
+  {
+    "id": "catastrophe_2",
+    "title": "Затопление города",
+    "outsideRisk": "Река вышла из берегов. Улицы и подземные переходы затоплены.",
+    "compatibleBunkerIds": [
+      "bunker_2",
+      "bunker_5",
+      "bunker_10"
+    ],
+    "origin": "original",
+    "final": {
+      "status": "draft",
+      "challenges": [
+        {
+          "key": "вода",
+          "anyTagCombination": [
+            [
+              "water"
+            ],
+            [
+              "water_food",
+              "logistics"
+            ]
+          ]
+        },
+        {
+          "key": "маршрут",
+          "anyTagCombination": [
+            [
+              "navigation",
+              "exit"
+            ],
+            [
+              "navigation",
+              "observation"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "catastrophe_3",
+    "title": "Пеплопад",
+    "outsideRisk": "Вулканический пепел оседает на крышах и забивает вентиляцию.",
+    "compatibleBunkerIds": [
+      "bunker_3",
+      "bunker_6",
+      "bunker_8"
+    ],
+    "origin": "original",
+    "final": {
+      "status": "draft",
+      "challenges": [
+        {
+          "key": "воздух",
+          "anyTagCombination": [
+            [
+              "filtration",
+              "engineering"
+            ],
+            [
+              "filtration",
+              "repair"
+            ]
+          ]
+        },
+        {
+          "key": "связь",
+          "anyTagCombination": [
+            [
+              "radio_operator",
+              "radio"
+            ],
+            [
+              "radio",
+              "power"
+            ],
+            [
+              "radio_operator",
+              "power_signal"
+            ],
+            [
+              "communications",
+              "signal"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "catastrophe_4",
+    "title": "Длительное отключение электричества",
+    "outsideRisk": "Региональная сеть обесточена. Связь и насосы работают с перебоями.",
+    "compatibleBunkerIds": [
+      "bunker_4",
+      "bunker_6",
+      "bunker_12"
+    ],
+    "origin": "original",
+    "final": {
+      "status": "draft",
+      "challenges": [
+        {
+          "key": "питание",
+          "anyTagCombination": [
+            [
+              "power",
+              "electrical"
+            ],
+            [
+              "power_signal",
+              "electrical"
+            ]
+          ]
+        },
+        {
+          "key": "связь",
+          "anyTagCombination": [
+            [
+              "radio_operator",
+              "radio"
+            ],
+            [
+              "radio",
+              "power"
+            ],
+            [
+              "radio_operator",
+              "power_signal"
+            ],
+            [
+              "communications",
+              "signal"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "catastrophe_5",
+    "title": "Засуха",
+    "outsideRisk": "Водохранилища обмелели. В городе прекращена подача воды.",
+    "compatibleBunkerIds": [
+      "bunker_5",
+      "bunker_10",
+      "bunker_11"
+    ],
+    "origin": "original",
+    "final": {
+      "status": "draft",
+      "challenges": [
+        {
+          "key": "вода",
+          "anyTagCombination": [
+            [
+              "water"
+            ],
+            [
+              "water_food",
+              "logistics"
+            ]
+          ]
+        },
+        {
+          "key": "еда",
+          "anyTagCombination": [
+            [
+              "food_storage",
+              "food"
+            ],
+            [
+              "water_food",
+              "food"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "catastrophe_6",
+    "title": "Пыльные бури",
+    "outsideRisk": "Серия бурь перекрыла дороги. Мелкая пыль проникает в здания.",
+    "compatibleBunkerIds": [
+      "bunker_6",
+      "bunker_3",
+      "bunker_9"
+    ],
+    "origin": "original",
+    "final": {
+      "status": "draft",
+      "challenges": [
+        {
+          "key": "воздух",
+          "anyTagCombination": [
+            [
+              "filtration",
+              "engineering"
+            ],
+            [
+              "filtration",
+              "repair"
+            ]
+          ]
+        },
+        {
+          "key": "связь",
+          "anyTagCombination": [
+            [
+              "radio_operator",
+              "radio"
+            ],
+            [
+              "radio",
+              "power"
+            ],
+            [
+              "radio_operator",
+              "power_signal"
+            ],
+            [
+              "communications",
+              "signal"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "catastrophe_7",
+    "title": "Ледяной дождь",
+    "outsideRisk": "Обледенение повредило провода. Дороги непроходимы.",
+    "compatibleBunkerIds": [
+      "bunker_7",
+      "bunker_1",
+      "bunker_4"
+    ],
+    "origin": "original",
+    "final": {
+      "status": "draft",
+      "challenges": [
+        {
+          "key": "тепло",
+          "anyTagCombination": [
+            [
+              "electrical",
+              "workshop"
+            ],
+            [
+              "winter_experience",
+              "warmth"
+            ]
+          ]
+        },
+        {
+          "key": "питание",
+          "anyTagCombination": [
+            [
+              "power",
+              "electrical"
+            ],
+            [
+              "power_signal",
+              "electrical"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "catastrophe_8",
+    "title": "Лесные пожары",
+    "outsideRisk": "Дым накрыл посёлки. Огонь периодически отрезает дороги.",
+    "compatibleBunkerIds": [
+      "bunker_8",
+      "bunker_3",
+      "bunker_6"
+    ],
+    "origin": "original",
+    "final": {
+      "status": "draft",
+      "challenges": [
+        {
+          "key": "воздух",
+          "anyTagCombination": [
+            [
+              "filtration",
+              "engineering"
+            ],
+            [
+              "filtration",
+              "repair"
+            ]
+          ]
+        },
+        {
+          "key": "маршрут",
+          "anyTagCombination": [
+            [
+              "navigation",
+              "exit"
+            ],
+            [
+              "navigation",
+              "observation"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "catastrophe_9",
+    "title": "Оползни",
+    "outsideRisk": "После затяжных дождей обрушились склоны. Основная дорога перекрыта.",
+    "compatibleBunkerIds": [
+      "bunker_9",
+      "bunker_2",
+      "bunker_7"
+    ],
+    "origin": "original",
+    "final": {
+      "status": "draft",
+      "challenges": [
+        {
+          "key": "маршрут",
+          "anyTagCombination": [
+            [
+              "navigation",
+              "exit"
+            ],
+            [
+              "navigation",
+              "observation"
+            ]
+          ]
+        },
+        {
+          "key": "еда",
+          "anyTagCombination": [
+            [
+              "food_storage",
+              "food"
+            ],
+            [
+              "water_food",
+              "food"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "catastrophe_10",
+    "title": "Аномальная жара",
+    "outsideRisk": "Несколько недель держится жара. Вода и электричество подаются по графику.",
+    "compatibleBunkerIds": [
+      "bunker_10",
+      "bunker_5",
+      "bunker_11"
+    ],
+    "origin": "original",
+    "final": {
+      "status": "draft",
+      "challenges": [
+        {
+          "key": "вода",
+          "anyTagCombination": [
+            [
+              "water"
+            ],
+            [
+              "water_food",
+              "logistics"
+            ]
+          ]
+        },
+        {
+          "key": "питание",
+          "anyTagCombination": [
+            [
+              "power",
+              "electrical"
+            ],
+            [
+              "power_signal",
+              "electrical"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "catastrophe_11",
+    "title": "Нашествие саранчи",
+    "outsideRisk": "Вредители уничтожили поля. Поставка еды прервалась.",
+    "compatibleBunkerIds": [
+      "bunker_11",
+      "bunker_5",
+      "bunker_9"
+    ],
+    "origin": "original",
+    "final": {
+      "status": "draft",
+      "challenges": [
+        {
+          "key": "еда",
+          "anyTagCombination": [
+            [
+              "food_storage",
+              "food"
+            ],
+            [
+              "water_food",
+              "food"
+            ]
+          ]
+        },
+        {
+          "key": "вода",
+          "anyTagCombination": [
+            [
+              "water"
+            ],
+            [
+              "water_food",
+              "logistics"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "catastrophe_12",
+    "title": "Штормовое побережье",
+    "outsideRisk": "Шторм разрушил причалы. Район отрезан приливом и ветром.",
+    "compatibleBunkerIds": [
+      "bunker_12",
+      "bunker_2",
+      "bunker_4"
+    ],
+    "origin": "original",
+    "final": {
+      "status": "draft",
+      "challenges": [
+        {
+          "key": "связь",
+          "anyTagCombination": [
+            [
+              "radio_operator",
+              "radio"
+            ],
+            [
+              "radio",
+              "power"
+            ],
+            [
+              "radio_operator",
+              "power_signal"
+            ],
+            [
+              "communications",
+              "signal"
+            ]
+          ]
+        },
+        {
+          "key": "маршрут",
+          "anyTagCombination": [
+            [
+              "navigation",
+              "exit"
+            ],
+            [
+              "navigation",
+              "observation"
+            ]
+          ]
+        }
+      ]
+    }
+  }
+]

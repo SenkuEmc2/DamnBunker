@@ -1,0 +1,473 @@
+[
+  {
+    "id": "hobbies_001",
+    "title": "Ремонт велосипедов",
+    "origin": "original",
+    "tags": [
+      "repair"
+    ]
+  },
+  {
+    "id": "hobbies_002",
+    "title": "Пайка электроники",
+    "origin": "original",
+    "tags": [
+      "repair"
+    ]
+  },
+  {
+    "id": "hobbies_003",
+    "title": "Переплёт книг",
+    "origin": "original",
+    "tags": [
+      "repair"
+    ]
+  },
+  {
+    "id": "hobbies_004",
+    "title": "Пошив одежды",
+    "origin": "original",
+    "tags": [
+      "repair"
+    ]
+  },
+  {
+    "id": "hobbies_005",
+    "title": "Резьба по дереву",
+    "origin": "original",
+    "tags": [
+      "repair"
+    ]
+  },
+  {
+    "id": "hobbies_006",
+    "title": "Сборка мебели",
+    "origin": "original",
+    "tags": [
+      "repair"
+    ]
+  },
+  {
+    "id": "hobbies_007",
+    "title": "Гончарное дело",
+    "origin": "original",
+    "tags": [
+      "repair"
+    ]
+  },
+  {
+    "id": "hobbies_008",
+    "title": "Ремонт часов",
+    "origin": "original",
+    "tags": [
+      "repair"
+    ]
+  },
+  {
+    "id": "hobbies_009",
+    "title": "Моделизм",
+    "origin": "original",
+    "tags": [
+      "repair"
+    ]
+  },
+  {
+    "id": "hobbies_010",
+    "title": "Работа с кожей",
+    "origin": "original",
+    "tags": [
+      "repair"
+    ]
+  },
+  {
+    "id": "hobbies_011",
+    "title": "Выращивание овощей",
+    "origin": "original",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "hobbies_012",
+    "title": "Выпечка хлеба",
+    "origin": "original",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "hobbies_013",
+    "title": "Домашнее консервирование",
+    "origin": "original",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "hobbies_014",
+    "title": "Сушка фруктов",
+    "origin": "original",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "hobbies_015",
+    "title": "Кулинария в походе",
+    "origin": "original",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "hobbies_016",
+    "title": "Гидропоника",
+    "origin": "original",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "hobbies_017",
+    "title": "Выращивание пряных трав",
+    "origin": "original",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "hobbies_018",
+    "title": "Рыбалка",
+    "origin": "original",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "hobbies_019",
+    "title": "Сыроварение",
+    "origin": "original",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "hobbies_020",
+    "title": "Разведение комнатных растений",
+    "origin": "original",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "hobbies_021",
+    "title": "Зимние походы",
+    "origin": "original",
+    "tags": [
+      "navigation",
+      "winter_experience"
+    ]
+  },
+  {
+    "id": "hobbies_022",
+    "title": "Спортивное ориентирование",
+    "origin": "original",
+    "tags": [
+      "navigation"
+    ]
+  },
+  {
+    "id": "hobbies_023",
+    "title": "Скалолазание",
+    "origin": "original",
+    "tags": [
+      "navigation"
+    ]
+  },
+  {
+    "id": "hobbies_024",
+    "title": "Гребля",
+    "origin": "original",
+    "tags": [
+      "navigation"
+    ]
+  },
+  {
+    "id": "hobbies_025",
+    "title": "Плавание",
+    "origin": "original",
+    "tags": [
+      "navigation"
+    ]
+  },
+  {
+    "id": "hobbies_026",
+    "title": "Наблюдение за птицами",
+    "origin": "original",
+    "tags": [
+      "navigation"
+    ]
+  },
+  {
+    "id": "hobbies_027",
+    "title": "Походная фотосъёмка",
+    "origin": "original",
+    "tags": [
+      "navigation"
+    ]
+  },
+  {
+    "id": "hobbies_028",
+    "title": "Велотуризм",
+    "origin": "original",
+    "tags": [
+      "navigation"
+    ]
+  },
+  {
+    "id": "hobbies_029",
+    "title": "Любительская астрономия",
+    "origin": "original",
+    "tags": [
+      "navigation"
+    ]
+  },
+  {
+    "id": "hobbies_030",
+    "title": "Геокешинг",
+    "origin": "original",
+    "tags": [
+      "navigation"
+    ]
+  },
+  {
+    "id": "hobbies_031",
+    "title": "Любительская радиосвязь",
+    "origin": "original",
+    "tags": [
+      "communications",
+      "radio_operator"
+    ]
+  },
+  {
+    "id": "hobbies_032",
+    "title": "Расшифровка азбуки Морзе",
+    "origin": "original",
+    "tags": [
+      "communications"
+    ]
+  },
+  {
+    "id": "hobbies_033",
+    "title": "Запись подкастов",
+    "origin": "original",
+    "tags": [
+      "communications"
+    ]
+  },
+  {
+    "id": "hobbies_034",
+    "title": "Изучение жестового языка",
+    "origin": "original",
+    "tags": [
+      "communications"
+    ]
+  },
+  {
+    "id": "hobbies_035",
+    "title": "Ведение метеодневника",
+    "origin": "original",
+    "tags": [
+      "communications"
+    ]
+  },
+  {
+    "id": "hobbies_036",
+    "title": "Сборка антенн",
+    "origin": "original",
+    "tags": [
+      "communications"
+    ]
+  },
+  {
+    "id": "hobbies_037",
+    "title": "Озвучивание книг",
+    "origin": "original",
+    "tags": [
+      "communications"
+    ]
+  },
+  {
+    "id": "hobbies_038",
+    "title": "Изучение иностранных языков",
+    "origin": "original",
+    "tags": [
+      "communications"
+    ]
+  },
+  {
+    "id": "hobbies_039",
+    "title": "Рисование карт",
+    "origin": "original",
+    "tags": [
+      "communications"
+    ]
+  },
+  {
+    "id": "hobbies_040",
+    "title": "Наблюдение за пролётами спутников",
+    "origin": "original",
+    "tags": [
+      "communications"
+    ]
+  },
+  {
+    "id": "hobbies_041",
+    "title": "Настольные игры",
+    "origin": "original",
+    "tags": [
+      "social"
+    ]
+  },
+  {
+    "id": "hobbies_042",
+    "title": "Импровизация",
+    "origin": "original",
+    "tags": [
+      "social"
+    ]
+  },
+  {
+    "id": "hobbies_043",
+    "title": "Хоровое пение",
+    "origin": "original",
+    "tags": [
+      "social"
+    ]
+  },
+  {
+    "id": "hobbies_044",
+    "title": "Шахматы",
+    "origin": "original",
+    "tags": [
+      "social"
+    ]
+  },
+  {
+    "id": "hobbies_045",
+    "title": "Рисование",
+    "origin": "original",
+    "tags": [
+      "social"
+    ]
+  },
+  {
+    "id": "hobbies_046",
+    "title": "Игра на гитаре",
+    "origin": "original",
+    "tags": [
+      "social"
+    ]
+  },
+  {
+    "id": "hobbies_047",
+    "title": "Танцы",
+    "origin": "original",
+    "tags": [
+      "social"
+    ]
+  },
+  {
+    "id": "hobbies_048",
+    "title": "Коллекционирование марок",
+    "origin": "original",
+    "tags": [
+      "social"
+    ]
+  },
+  {
+    "id": "hobbies_049",
+    "title": "Театральный грим",
+    "origin": "original",
+    "tags": [
+      "social"
+    ]
+  },
+  {
+    "id": "hobbies_050",
+    "title": "Создание комиксов",
+    "origin": "original",
+    "tags": [
+      "social"
+    ]
+  },
+  {
+    "id": "hobbies_discord_001",
+    "title": "Зимний бивак без палатки",
+    "tags": [
+      "winter_experience",
+      "navigation"
+    ],
+    "origin": "original"
+  },
+  {
+    "id": "hobbies_discord_002",
+    "title": "Самодельные походные печи",
+    "tags": [
+      "repair",
+      "insulation"
+    ],
+    "origin": "original"
+  },
+  {
+    "id": "hobbies_discord_003",
+    "title": "Охота за дальними радиостанциями",
+    "tags": [
+      "communications",
+      "radio_operator"
+    ],
+    "origin": "original"
+  },
+  {
+    "id": "hobbies_discord_004",
+    "title": "Ремонт списанной электроники",
+    "tags": [
+      "repair",
+      "electrical"
+    ],
+    "origin": "original"
+  },
+  {
+    "id": "hobbies_discord_005",
+    "title": "Шитьё утеплённых спальников",
+    "tags": [
+      "insulation"
+    ],
+    "origin": "original"
+  },
+  {
+    "id": "hobbies_discord_006",
+    "title": "Походы по замёрзшим озёрам",
+    "tags": [
+      "winter_experience",
+      "navigation"
+    ],
+    "origin": "original"
+  },
+  {
+    "id": "hobbies_discord_007",
+    "title": "Настольные игры на выживание",
+    "tags": [
+      "social"
+    ],
+    "origin": "original"
+  },
+  {
+    "id": "hobbies_discord_008",
+    "title": "Домашняя сушка продуктов",
+    "tags": [
+      "food"
+    ],
+    "origin": "original"
+  }
+]

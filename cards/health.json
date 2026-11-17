@@ -1,0 +1,468 @@
+[
+  {
+    "id": "health_001",
+    "title": "Нет известных хронических заболеваний",
+    "origin": "original",
+    "tags": [],
+    "stage": null
+  },
+  {
+    "id": "health_002",
+    "title": "Восстановление после перелома запястья",
+    "origin": "original",
+    "tags": [],
+    "stage": null
+  },
+  {
+    "id": "health_003",
+    "title": "Давний шрам на плече",
+    "origin": "original",
+    "tags": [],
+    "stage": null
+  },
+  {
+    "id": "health_004",
+    "title": "Периодические головные боли",
+    "origin": "original",
+    "tags": [],
+    "stage": null
+  },
+  {
+    "id": "health_005",
+    "title": "Повышенная чувствительность к яркому свету",
+    "origin": "original",
+    "tags": [],
+    "stage": null
+  },
+  {
+    "id": "health_006",
+    "title": "Нарушение цветового зрения",
+    "origin": "original",
+    "tags": [],
+    "stage": null
+  },
+  {
+    "id": "health_007",
+    "title": "Тиннитус",
+    "origin": "original",
+    "tags": [],
+    "stage": null
+  },
+  {
+    "id": "health_008",
+    "title": "Укачивание в транспорте",
+    "origin": "original",
+    "tags": [],
+    "stage": null
+  },
+  {
+    "id": "health_009",
+    "title": "Бессонница при смене режима",
+    "origin": "original",
+    "tags": [],
+    "stage": null
+  },
+  {
+    "id": "health_010",
+    "title": "Чувствительность к резким запахам",
+    "origin": "original",
+    "tags": [],
+    "stage": null
+  },
+  {
+    "id": "health_011",
+    "title": "Растяжение голеностопа",
+    "origin": "original",
+    "tags": [
+      "mobility"
+    ],
+    "stage": null
+  },
+  {
+    "id": "health_012",
+    "title": "Ушиб колена",
+    "origin": "original",
+    "tags": [
+      "mobility"
+    ],
+    "stage": null
+  },
+  {
+    "id": "health_013",
+    "title": "Ограниченная подвижность плеча",
+    "origin": "original",
+    "tags": [
+      "mobility"
+    ],
+    "stage": null
+  },
+  {
+    "id": "health_014",
+    "title": "Скованность поясницы",
+    "origin": "original",
+    "tags": [
+      "mobility"
+    ],
+    "stage": null
+  },
+  {
+    "id": "health_015",
+    "title": "Боль в шее после старой травмы",
+    "origin": "original",
+    "tags": [
+      "mobility"
+    ],
+    "stage": null
+  },
+  {
+    "id": "health_016",
+    "title": "Хроническая боль в стопе",
+    "origin": "original",
+    "tags": [
+      "mobility"
+    ],
+    "stage": null
+  },
+  {
+    "id": "health_017",
+    "title": "Трость для ходьбы",
+    "origin": "original",
+    "tags": [
+      "mobility"
+    ],
+    "stage": null
+  },
+  {
+    "id": "health_018",
+    "title": "Протез голени",
+    "origin": "original",
+    "tags": [
+      "mobility"
+    ],
+    "stage": null
+  },
+  {
+    "id": "health_019",
+    "title": "Тремор рук",
+    "origin": "original",
+    "tags": [
+      "mobility"
+    ],
+    "stage": null
+  },
+  {
+    "id": "health_020",
+    "title": "Восстановление после операции на колене",
+    "origin": "original",
+    "tags": [
+      "mobility"
+    ],
+    "stage": null
+  },
+  {
+    "id": "health_021",
+    "title": "Близорукость",
+    "origin": "original",
+    "tags": [
+      "vision_hearing"
+    ],
+    "stage": null
+  },
+  {
+    "id": "health_022",
+    "title": "Дальнозоркость",
+    "origin": "original",
+    "tags": [
+      "vision_hearing"
+    ],
+    "stage": null
+  },
+  {
+    "id": "health_023",
+    "title": "Астигматизм",
+    "origin": "original",
+    "tags": [
+      "vision_hearing"
+    ],
+    "stage": null
+  },
+  {
+    "id": "health_024",
+    "title": "Косоглазие",
+    "origin": "original",
+    "tags": [
+      "vision_hearing"
+    ],
+    "stage": null
+  },
+  {
+    "id": "health_025",
+    "title": "Снижение слуха на одно ухо",
+    "origin": "original",
+    "tags": [
+      "vision_hearing"
+    ],
+    "stage": null
+  },
+  {
+    "id": "health_026",
+    "title": "Слуховой аппарат",
+    "origin": "original",
+    "tags": [
+      "vision_hearing"
+    ],
+    "stage": null
+  },
+  {
+    "id": "health_027",
+    "title": "Плохое зрение в сумерках",
+    "origin": "original",
+    "tags": [
+      "vision_hearing"
+    ],
+    "stage": null
+  },
+  {
+    "id": "health_028",
+    "title": "Повышенная чувствительность к шуму",
+    "origin": "original",
+    "tags": [
+      "vision_hearing"
+    ],
+    "stage": null
+  },
+  {
+    "id": "health_029",
+    "title": "Возрастное снижение слуха",
+    "origin": "original",
+    "tags": [
+      "vision_hearing"
+    ],
+    "stage": null
+  },
+  {
+    "id": "health_030",
+    "title": "Сухость глаз",
+    "origin": "original",
+    "tags": [
+      "vision_hearing"
+    ],
+    "stage": null
+  },
+  {
+    "id": "health_031",
+    "title": "Аллергия на пыльцу",
+    "origin": "original",
+    "tags": [
+      "care"
+    ],
+    "stage": null
+  },
+  {
+    "id": "health_032",
+    "title": "Аллергия на орехи",
+    "origin": "original",
+    "tags": [
+      "care"
+    ],
+    "stage": null
+  },
+  {
+    "id": "health_033",
+    "title": "Аллергия на кошачью шерсть",
+    "origin": "original",
+    "tags": [
+      "care"
+    ],
+    "stage": null
+  },
+  {
+    "id": "health_034",
+    "title": "Непереносимость лактозы",
+    "origin": "original",
+    "tags": [
+      "care"
+    ],
+    "stage": null
+  },
+  {
+    "id": "health_035",
+    "title": "Экзема",
+    "origin": "original",
+    "tags": [
+      "care"
+    ],
+    "stage": null
+  },
+  {
+    "id": "health_036",
+    "title": "Псориаз",
+    "origin": "original",
+    "tags": [
+      "care"
+    ],
+    "stage": null
+  },
+  {
+    "id": "health_037",
+    "title": "Хронический ринит",
+    "origin": "original",
+    "tags": [
+      "care"
+    ],
+    "stage": null
+  },
+  {
+    "id": "health_038",
+    "title": "Мигрень",
+    "origin": "original",
+    "tags": [
+      "care"
+    ],
+    "stage": null
+  },
+  {
+    "id": "health_039",
+    "title": "Изжога",
+    "origin": "original",
+    "tags": [
+      "care"
+    ],
+    "stage": null
+  },
+  {
+    "id": "health_040",
+    "title": "Синдром раздражённого кишечника",
+    "origin": "original",
+    "tags": [
+      "care"
+    ],
+    "stage": null
+  },
+  {
+    "id": "health_041",
+    "title": "Рубец после ожога кисти",
+    "origin": "original",
+    "tags": [],
+    "stage": null
+  },
+  {
+    "id": "health_042",
+    "title": "Потеря обоняния",
+    "origin": "original",
+    "tags": [],
+    "stage": null
+  },
+  {
+    "id": "health_043",
+    "title": "Частая заложенность ушей",
+    "origin": "original",
+    "tags": [],
+    "stage": null
+  },
+  {
+    "id": "health_044",
+    "title": "Сезонная сухость кожи",
+    "origin": "original",
+    "tags": [],
+    "stage": null
+  },
+  {
+    "id": "health_045",
+    "title": "Рецидивирующая боль в кисти",
+    "origin": "original",
+    "tags": [],
+    "stage": null
+  },
+  {
+    "id": "health_046",
+    "title": "Бронхиальная астма",
+    "origin": "original",
+    "tags": [],
+    "stage": "лёгкая"
+  },
+  {
+    "id": "health_047",
+    "title": "Артериальная гипертензия",
+    "origin": "original",
+    "tags": [],
+    "stage": "1-я степень"
+  },
+  {
+    "id": "health_048",
+    "title": "Сколиоз",
+    "origin": "original",
+    "tags": [],
+    "stage": "1-я степень"
+  },
+  {
+    "id": "health_049",
+    "title": "Нарушение слуха на оба уха",
+    "origin": "original",
+    "tags": [],
+    "stage": "умеренная степень"
+  },
+  {
+    "id": "health_050",
+    "title": "Хроническая болезнь почек",
+    "origin": "original",
+    "tags": [],
+    "stage": "стадия 2"
+  },
+  {
+    "id": "health_discord_001",
+    "title": "Близорукость, очки с собой",
+    "tags": [],
+    "origin": "original",
+    "stage": "слабая степень"
+  },
+  {
+    "id": "health_discord_002",
+    "title": "Восстановление после растяжения голеностопа",
+    "tags": [],
+    "origin": "original",
+    "stage": "завершающий этап"
+  },
+  {
+    "id": "health_discord_003",
+    "title": "Аллергия на пыльцу",
+    "tags": [],
+    "origin": "original",
+    "stage": "вне сезонного обострения"
+  },
+  {
+    "id": "health_discord_004",
+    "title": "Повышенная чувствительность к холоду",
+    "tags": [],
+    "origin": "original",
+    "stage": null
+  },
+  {
+    "id": "health_discord_005",
+    "title": "Недавний лёгкий ожог ладони",
+    "tags": [],
+    "origin": "original",
+    "stage": "заживление"
+  },
+  {
+    "id": "health_discord_006",
+    "title": "Сниженный слух на одно ухо",
+    "tags": [],
+    "origin": "original",
+    "stage": null
+  },
+  {
+    "id": "health_discord_007",
+    "title": "Мышечная усталость после долгого перехода",
+    "tags": [],
+    "origin": "original",
+    "stage": null
+  },
+  {
+    "id": "health_discord_008",
+    "title": "Старая травма колена",
+    "tags": [],
+    "origin": "original",
+    "stage": "без обострения"
+  }
+]

@@ -1,0 +1,158 @@
+[
+  {
+    "id": "special_1",
+    "title": "Новая карта — здоровье",
+    "operation": "replace",
+    "slot": "health",
+    "deck": "health",
+    "description": "Получите новую карту категории «здоровье».",
+    "origin": "original"
+  },
+  {
+    "id": "special_2",
+    "title": "Новая карта — хобби",
+    "operation": "replace",
+    "slot": "hobby",
+    "deck": "hobbies",
+    "description": "Получите новую карту категории «хобби».",
+    "origin": "original"
+  },
+  {
+    "id": "special_3",
+    "title": "Новая карта — фобия",
+    "operation": "replace",
+    "slot": "phobia",
+    "deck": "phobias",
+    "description": "Получите новую карту категории «фобия».",
+    "origin": "original"
+  },
+  {
+    "id": "special_4",
+    "title": "Новая карта — багаж",
+    "operation": "replace",
+    "slot": "baggage",
+    "deck": "baggage",
+    "description": "Получите новую карту категории «багаж».",
+    "origin": "original"
+  },
+  {
+    "id": "special_5",
+    "title": "Новая карта — первый факт",
+    "operation": "replace",
+    "slot": "fact1",
+    "deck": "facts",
+    "description": "Получите новую карту категории «первый факт».",
+    "origin": "original"
+  },
+  {
+    "id": "special_6",
+    "title": "Обмен — здоровье",
+    "operation": "swap",
+    "slot": "health",
+    "deck": "health",
+    "description": "Обменяйтесь картами «здоровье» с выбранным активным игроком.",
+    "origin": "original"
+  },
+  {
+    "id": "special_7",
+    "title": "Обмен — хобби",
+    "operation": "swap",
+    "slot": "hobby",
+    "deck": "hobbies",
+    "description": "Обменяйтесь картами «хобби» с выбранным активным игроком.",
+    "origin": "original"
+  },
+  {
+    "id": "special_8",
+    "title": "Обмен — фобия",
+    "operation": "swap",
+    "slot": "phobia",
+    "deck": "phobias",
+    "description": "Обменяйтесь картами «фобия» с выбранным активным игроком.",
+    "origin": "original"
+  },
+  {
+    "id": "special_9",
+    "title": "Обмен — багаж",
+    "operation": "swap",
+    "slot": "baggage",
+    "deck": "baggage",
+    "description": "Обменяйтесь картами «багаж» с выбранным активным игроком.",
+    "origin": "original"
+  },
+  {
+    "id": "special_10",
+    "title": "Обмен — первый факт",
+    "operation": "swap",
+    "slot": "fact1",
+    "deck": "facts",
+    "description": "Обменяйтесь картами «первый факт» с выбранным активным игроком.",
+    "origin": "original"
+  },
+  {
+    "id": "special_11",
+    "title": "Общая перераздача — здоровье",
+    "operation": "replace_all",
+    "slot": "health",
+    "deck": "health",
+    "description": "Все активные игроки получают новую карту «здоровье».",
+    "origin": "original"
+  },
+  {
+    "id": "special_12",
+    "title": "Общая перераздача — хобби",
+    "operation": "replace_all",
+    "slot": "hobby",
+    "deck": "hobbies",
+    "description": "Все активные игроки получают новую карту «хобби».",
+    "origin": "original"
+  },
+  {
+    "id": "special_13",
+    "title": "Общая перераздача — фобия",
+    "operation": "replace_all",
+    "slot": "phobia",
+    "deck": "phobias",
+    "description": "Все активные игроки получают новую карту «фобия».",
+    "origin": "original"
+  },
+  {
+    "id": "special_14",
+    "title": "Общая перераздача — багаж",
+    "operation": "replace_all",
+    "slot": "baggage",
+    "deck": "baggage",
+    "description": "Все активные игроки получают новую карту «багаж».",
+    "origin": "original"
+  },
+  {
+    "id": "special_15",
+    "title": "Общая перераздача — первый факт",
+    "operation": "replace_all",
+    "slot": "fact1",
+    "deck": "facts",
+    "description": "Все активные игроки получают новую карту «первый факт».",
+    "origin": "original"
+  },
+  {
+    "id": "special_16",
+    "title": "Личная проверка",
+    "operation": "peek",
+    "description": "Тайно посмотрите выбранную скрытую карту другого активного игрока. Она останется закрытой для остальных.",
+    "origin": "original"
+  },
+  {
+    "id": "special_17",
+    "title": "Прямой вопрос",
+    "operation": "reveal_other",
+    "description": "Откройте выбранную скрытую карту другого активного игрока. У него должна остаться хотя бы одна закрытая характеристика.",
+    "origin": "original"
+  },
+  {
+    "id": "special_18",
+    "title": "План убежища",
+    "operation": "inspect_bunker",
+    "description": "Тайно посмотрите деталь бункера, которая откроется во втором раунде.",
+    "origin": "original"
+  }
+]

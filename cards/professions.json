@@ -1,0 +1,1155 @@
+[
+  {
+    "id": "professions_001",
+    "title": "Электрик",
+    "origin": "original",
+    "tags": [
+      "repair",
+      "electrical"
+    ],
+    "minWorkAge": 18,
+    "experienceYears": {
+      "min": 0,
+      "max": 45
+    }
+  },
+  {
+    "id": "professions_002",
+    "title": "Сантехник",
+    "origin": "original",
+    "tags": [
+      "repair"
+    ],
+    "minWorkAge": 18,
+    "experienceYears": {
+      "min": 0,
+      "max": 45
+    }
+  },
+  {
+    "id": "professions_003",
+    "title": "Сварщик",
+    "origin": "original",
+    "tags": [
+      "repair"
+    ],
+    "minWorkAge": 18,
+    "experienceYears": {
+      "min": 0,
+      "max": 45
+    }
+  },
+  {
+    "id": "professions_004",
+    "title": "Слесарь",
+    "origin": "original",
+    "tags": [
+      "repair"
+    ],
+    "minWorkAge": 18,
+    "experienceYears": {
+      "min": 0,
+      "max": 45
+    }
+  },
+  {
+    "id": "professions_005",
+    "title": "Токарь",
+    "origin": "original",
+    "tags": [
+      "repair"
+    ],
+    "minWorkAge": 18,
+    "experienceYears": {
+      "min": 0,
+      "max": 45
+    }
+  },
+  {
+    "id": "professions_006",
+    "title": "Автомеханик",
+    "origin": "original",
+    "tags": [
+      "repair"
+    ],
+    "minWorkAge": 18,
+    "experienceYears": {
+      "min": 0,
+      "max": 45
+    }
+  },
+  {
+    "id": "professions_007",
+    "title": "Столяр",
+    "origin": "original",
+    "tags": [
+      "repair"
+    ],
+    "minWorkAge": 18,
+    "experienceYears": {
+      "min": 0,
+      "max": 45
+    }
+  },
+  {
+    "id": "professions_008",
+    "title": "Кровельщик",
+    "origin": "original",
+    "tags": [
+      "repair"
+    ],
+    "minWorkAge": 18,
+    "experienceYears": {
+      "min": 0,
+      "max": 45
+    }
+  },
+  {
+    "id": "professions_009",
+    "title": "Механик лифтов",
+    "origin": "original",
+    "tags": [
+      "repair"
+    ],
+    "minWorkAge": 18,
+    "experienceYears": {
+      "min": 0,
+      "max": 45
+    }
+  },
+  {
+    "id": "professions_010",
+    "title": "Монтажник вентиляции",
+    "origin": "original",
+    "tags": [
+      "repair"
+    ],
+    "minWorkAge": 18,
+    "experienceYears": {
+      "min": 0,
+      "max": 45
+    }
+  },
+  {
+    "id": "professions_011",
+    "title": "Инженер-энергетик",
+    "origin": "original",
+    "tags": [
+      "engineering"
+    ],
+    "minWorkAge": 18,
+    "experienceYears": {
+      "min": 0,
+      "max": 45
+    }
+  },
+  {
+    "id": "professions_012",
+    "title": "Инженер-конструктор",
+    "origin": "original",
+    "tags": [
+      "engineering"
+    ],
+    "minWorkAge": 18,
+    "experienceYears": {
+      "min": 0,
+      "max": 45
+    }
+  },
+  {
+    "id": "professions_013",
+    "title": "Архитектор",
+    "origin": "original",
+    "tags": [
+      "engineering"
+    ],
+    "minWorkAge": 18,
+    "experienceYears": {
+      "min": 0,
+      "max": 45
+    }
+  },
+  {
+    "id": "professions_014",
+    "title": "Геодезист",
+    "origin": "original",
+    "tags": [
+      "engineering"
+    ],
+    "minWorkAge": 18,
+    "experienceYears": {
+      "min": 0,
+      "max": 45
+    }
+  },
+  {
+    "id": "professions_015",
+    "title": "Гидролог",
+    "origin": "original",
+    "tags": [
+      "engineering"
+    ],
+    "minWorkAge": 18,
+    "experienceYears": {
+      "min": 0,
+      "max": 45
+    }
+  },
+  {
+    "id": "professions_016",
+    "title": "Теплотехник",
+    "origin": "original",
+    "tags": [
+      "engineering"
+    ],
+    "minWorkAge": 18,
+    "experienceYears": {
+      "min": 0,
+      "max": 45
+    }
+  },
+  {
+    "id": "professions_017",
+    "title": "Инженер по водоснабжению",
+    "origin": "original",
+    "tags": [
+      "engineering"
+    ],
+    "minWorkAge": 18,
+    "experienceYears": {
+      "min": 0,
+      "max": 45
+    }
+  },
+  {
+    "id": "professions_018",
+    "title": "Геолог",
+    "origin": "original",
+    "tags": [
+      "engineering"
+    ],
+    "minWorkAge": 18,
+    "experienceYears": {
+      "min": 0,
+      "max": 45
+    }
+  },
+  {
+    "id": "professions_019",
+    "title": "Метролог",
+    "origin": "original",
+    "tags": [
+      "engineering"
+    ],
+    "minWorkAge": 18,
+    "experienceYears": {
+      "min": 0,
+      "max": 45
+    }
+  },
+  {
+    "id": "professions_020",
+    "title": "Лаборант",
+    "origin": "original",
+    "tags": [
+      "engineering"
+    ],
+    "minWorkAge": 18,
+    "experienceYears": {
+      "min": 0,
+      "max": 45
+    }
+  },
+  {
+    "id": "professions_021",
+    "title": "Фельдшер",
+    "origin": "original",
+    "tags": [
+      "medicine"
+    ],
+    "minWorkAge": 22,
+    "experienceYears": {
+      "min": 0,
+      "max": 45
+    }
+  },
+  {
+    "id": "professions_022",
+    "title": "Врач-терапевт",
+    "origin": "original",
+    "tags": [
+      "medicine"
+    ],
+    "minWorkAge": 22,
+    "experienceYears": {
+      "min": 0,
+      "max": 45
+    }
+  },
+  {
+    "id": "professions_023",
+    "title": "Хирург",
+    "origin": "original",
+    "tags": [
+      "medicine"
+    ],
+    "minWorkAge": 25,
+    "experienceYears": {
+      "min": 0,
+      "max": 45
+    }
+  },
+  {
+    "id": "professions_024",
+    "title": "Стоматолог",
+    "origin": "original",
+    "tags": [
+      "medicine"
+    ],
+    "minWorkAge": 22,
+    "experienceYears": {
+      "min": 0,
+      "max": 45
+    }
+  },
+  {
+    "id": "professions_025",
+    "title": "Медсестра",
+    "origin": "original",
+    "tags": [
+      "medicine"
+    ],
+    "minWorkAge": 22,
+    "experienceYears": {
+      "min": 0,
+      "max": 45
+    }
+  },
+  {
+    "id": "professions_026",
+    "title": "Фармацевт",
+    "origin": "original",
+    "tags": [
+      "medicine"
+    ],
+    "minWorkAge": 22,
+    "experienceYears": {
+      "min": 0,
+      "max": 45
+    }
+  },
+  {
+    "id": "professions_027",
+    "title": "Ветеринар",
+    "origin": "original",
+    "tags": [
+      "medicine"
+    ],
+    "minWorkAge": 22,
+    "experienceYears": {
+      "min": 0,
+      "max": 45
+    }
+  },
+  {
+    "id": "professions_028",
+    "title": "Реабилитолог",
+    "origin": "original",
+    "tags": [
+      "medicine"
+    ],
+    "minWorkAge": 22,
+    "experienceYears": {
+      "min": 0,
+      "max": 45
+    }
+  },
+  {
+    "id": "professions_029",
+    "title": "Психолог",
+    "origin": "original",
+    "tags": [
+      "medicine"
+    ],
+    "minWorkAge": 22,
+    "experienceYears": {
+      "min": 0,
+      "max": 45
+    }
+  },
+  {
+    "id": "professions_030",
+    "title": "Врач-офтальмолог",
+    "origin": "original",
+    "tags": [
+      "medicine"
+    ],
+    "minWorkAge": 22,
+    "experienceYears": {
+      "min": 0,
+      "max": 45
+    }
+  },
+  {
+    "id": "professions_031",
+    "title": "Повар",
+    "origin": "original",
+    "tags": [
+      "food"
+    ],
+    "minWorkAge": 18,
+    "experienceYears": {
+      "min": 0,
+      "max": 45
+    }
+  },
+  {
+    "id": "professions_032",
+    "title": "Пекарь",
+    "origin": "original",
+    "tags": [
+      "food"
+    ],
+    "minWorkAge": 18,
+    "experienceYears": {
+      "min": 0,
+      "max": 45
+    }
+  },
+  {
+    "id": "professions_033",
+    "title": "Кондитер",
+    "origin": "original",
+    "tags": [
+      "food"
+    ],
+    "minWorkAge": 18,
+    "experienceYears": {
+      "min": 0,
+      "max": 45
+    }
+  },
+  {
+    "id": "professions_034",
+    "title": "Технолог пищевого производства",
+    "origin": "original",
+    "tags": [
+      "food"
+    ],
+    "minWorkAge": 18,
+    "experienceYears": {
+      "min": 0,
+      "max": 45
+    }
+  },
+  {
+    "id": "professions_035",
+    "title": "Агроном",
+    "origin": "original",
+    "tags": [
+      "food"
+    ],
+    "minWorkAge": 18,
+    "experienceYears": {
+      "min": 0,
+      "max": 45
+    }
+  },
+  {
+    "id": "professions_036",
+    "title": "Фермер",
+    "origin": "original",
+    "tags": [
+      "food"
+    ],
+    "minWorkAge": 18,
+    "experienceYears": {
+      "min": 0,
+      "max": 45
+    }
+  },
+  {
+    "id": "professions_037",
+    "title": "Пчеловод",
+    "origin": "original",
+    "tags": [
+      "food"
+    ],
+    "minWorkAge": 18,
+    "experienceYears": {
+      "min": 0,
+      "max": 45
+    }
+  },
+  {
+    "id": "professions_038",
+    "title": "Рыбовод",
+    "origin": "original",
+    "tags": [
+      "food"
+    ],
+    "minWorkAge": 18,
+    "experienceYears": {
+      "min": 0,
+      "max": 45
+    }
+  },
+  {
+    "id": "professions_039",
+    "title": "Садовник",
+    "origin": "original",
+    "tags": [
+      "food"
+    ],
+    "minWorkAge": 18,
+    "experienceYears": {
+      "min": 0,
+      "max": 45
+    }
+  },
+  {
+    "id": "professions_040",
+    "title": "Миколог",
+    "origin": "original",
+    "tags": [
+      "food"
+    ],
+    "minWorkAge": 18,
+    "experienceYears": {
+      "min": 0,
+      "max": 45
+    }
+  },
+  {
+    "id": "professions_041",
+    "title": "Спасатель",
+    "origin": "original",
+    "tags": [
+      "navigation"
+    ],
+    "minWorkAge": 18,
+    "experienceYears": {
+      "min": 0,
+      "max": 45
+    }
+  },
+  {
+    "id": "professions_042",
+    "title": "Пожарный",
+    "origin": "original",
+    "tags": [
+      "navigation"
+    ],
+    "minWorkAge": 18,
+    "experienceYears": {
+      "min": 0,
+      "max": 45
+    }
+  },
+  {
+    "id": "professions_043",
+    "title": "Горный проводник",
+    "origin": "original",
+    "tags": [
+      "navigation"
+    ],
+    "minWorkAge": 18,
+    "experienceYears": {
+      "min": 0,
+      "max": 45
+    }
+  },
+  {
+    "id": "professions_044",
+    "title": "Лесничий",
+    "origin": "original",
+    "tags": [
+      "navigation"
+    ],
+    "minWorkAge": 18,
+    "experienceYears": {
+      "min": 0,
+      "max": 45
+    }
+  },
+  {
+    "id": "professions_045",
+    "title": "Картограф",
+    "origin": "original",
+    "tags": [
+      "navigation"
+    ],
+    "minWorkAge": 18,
+    "experienceYears": {
+      "min": 0,
+      "max": 45
+    }
+  },
+  {
+    "id": "professions_046",
+    "title": "Водитель автобуса",
+    "origin": "original",
+    "tags": [
+      "navigation"
+    ],
+    "minWorkAge": 18,
+    "experienceYears": {
+      "min": 0,
+      "max": 45
+    }
+  },
+  {
+    "id": "professions_047",
+    "title": "Лоцман",
+    "origin": "original",
+    "tags": [
+      "navigation"
+    ],
+    "minWorkAge": 18,
+    "experienceYears": {
+      "min": 0,
+      "max": 45
+    }
+  },
+  {
+    "id": "professions_048",
+    "title": "Водолаз",
+    "origin": "original",
+    "tags": [
+      "navigation"
+    ],
+    "minWorkAge": 18,
+    "experienceYears": {
+      "min": 0,
+      "max": 45
+    }
+  },
+  {
+    "id": "professions_049",
+    "title": "Машинист поезда",
+    "origin": "original",
+    "tags": [
+      "navigation"
+    ],
+    "minWorkAge": 18,
+    "experienceYears": {
+      "min": 0,
+      "max": 45
+    }
+  },
+  {
+    "id": "professions_050",
+    "title": "Штурман",
+    "origin": "original",
+    "tags": [
+      "navigation"
+    ],
+    "minWorkAge": 18,
+    "experienceYears": {
+      "min": 0,
+      "max": 45
+    }
+  },
+  {
+    "id": "professions_051",
+    "title": "Радиотехник",
+    "origin": "original",
+    "tags": [
+      "communications"
+    ],
+    "minWorkAge": 18,
+    "experienceYears": {
+      "min": 0,
+      "max": 45
+    }
+  },
+  {
+    "id": "professions_052",
+    "title": "Системный администратор",
+    "origin": "original",
+    "tags": [
+      "communications"
+    ],
+    "minWorkAge": 18,
+    "experienceYears": {
+      "min": 0,
+      "max": 45
+    }
+  },
+  {
+    "id": "professions_053",
+    "title": "Программист",
+    "origin": "original",
+    "tags": [
+      "communications"
+    ],
+    "minWorkAge": 18,
+    "experienceYears": {
+      "min": 0,
+      "max": 45
+    }
+  },
+  {
+    "id": "professions_054",
+    "title": "Связист",
+    "origin": "original",
+    "tags": [
+      "communications"
+    ],
+    "minWorkAge": 18,
+    "experienceYears": {
+      "min": 0,
+      "max": 45
+    }
+  },
+  {
+    "id": "professions_055",
+    "title": "Диспетчер",
+    "origin": "original",
+    "tags": [
+      "communications"
+    ],
+    "minWorkAge": 18,
+    "experienceYears": {
+      "min": 0,
+      "max": 45
+    }
+  },
+  {
+    "id": "professions_056",
+    "title": "Радист",
+    "origin": "original",
+    "tags": [
+      "communications"
+    ],
+    "minWorkAge": 18,
+    "experienceYears": {
+      "min": 0,
+      "max": 45
+    }
+  },
+  {
+    "id": "professions_057",
+    "title": "Оператор метеостанции",
+    "origin": "original",
+    "tags": [
+      "communications"
+    ],
+    "minWorkAge": 18,
+    "experienceYears": {
+      "min": 0,
+      "max": 45
+    }
+  },
+  {
+    "id": "professions_058",
+    "title": "Переводчик",
+    "origin": "original",
+    "tags": [
+      "communications"
+    ],
+    "minWorkAge": 18,
+    "experienceYears": {
+      "min": 0,
+      "max": 45
+    }
+  },
+  {
+    "id": "professions_059",
+    "title": "Звукооператор",
+    "origin": "original",
+    "tags": [
+      "communications"
+    ],
+    "minWorkAge": 18,
+    "experienceYears": {
+      "min": 0,
+      "max": 45
+    }
+  },
+  {
+    "id": "professions_060",
+    "title": "Специалист по спутниковой связи",
+    "origin": "original",
+    "tags": [
+      "communications"
+    ],
+    "minWorkAge": 18,
+    "experienceYears": {
+      "min": 0,
+      "max": 45
+    }
+  },
+  {
+    "id": "professions_061",
+    "title": "Кладовщик",
+    "origin": "original",
+    "tags": [
+      "logistics"
+    ],
+    "minWorkAge": 18,
+    "experienceYears": {
+      "min": 0,
+      "max": 45
+    }
+  },
+  {
+    "id": "professions_062",
+    "title": "Логист",
+    "origin": "original",
+    "tags": [
+      "logistics"
+    ],
+    "minWorkAge": 18,
+    "experienceYears": {
+      "min": 0,
+      "max": 45
+    }
+  },
+  {
+    "id": "professions_063",
+    "title": "Закупщик",
+    "origin": "original",
+    "tags": [
+      "logistics"
+    ],
+    "minWorkAge": 18,
+    "experienceYears": {
+      "min": 0,
+      "max": 45
+    }
+  },
+  {
+    "id": "professions_064",
+    "title": "Почтальон",
+    "origin": "original",
+    "tags": [
+      "logistics"
+    ],
+    "minWorkAge": 18,
+    "experienceYears": {
+      "min": 0,
+      "max": 45
+    }
+  },
+  {
+    "id": "professions_065",
+    "title": "Курьер",
+    "origin": "original",
+    "tags": [
+      "logistics"
+    ],
+    "minWorkAge": 18,
+    "experienceYears": {
+      "min": 0,
+      "max": 45
+    }
+  },
+  {
+    "id": "professions_066",
+    "title": "Бухгалтер",
+    "origin": "original",
+    "tags": [
+      "logistics"
+    ],
+    "minWorkAge": 18,
+    "experienceYears": {
+      "min": 0,
+      "max": 45
+    }
+  },
+  {
+    "id": "professions_067",
+    "title": "Ревизор",
+    "origin": "original",
+    "tags": [
+      "logistics"
+    ],
+    "minWorkAge": 18,
+    "experienceYears": {
+      "min": 0,
+      "max": 45
+    }
+  },
+  {
+    "id": "professions_068",
+    "title": "Управляющий гостиницей",
+    "origin": "original",
+    "tags": [
+      "logistics"
+    ],
+    "minWorkAge": 18,
+    "experienceYears": {
+      "min": 0,
+      "max": 45
+    }
+  },
+  {
+    "id": "professions_069",
+    "title": "Начальник смены",
+    "origin": "original",
+    "tags": [
+      "logistics"
+    ],
+    "minWorkAge": 18,
+    "experienceYears": {
+      "min": 0,
+      "max": 45
+    }
+  },
+  {
+    "id": "professions_070",
+    "title": "Менеджер по снабжению",
+    "origin": "original",
+    "tags": [
+      "logistics"
+    ],
+    "minWorkAge": 18,
+    "experienceYears": {
+      "min": 0,
+      "max": 45
+    }
+  },
+  {
+    "id": "professions_071",
+    "title": "Учитель",
+    "origin": "original",
+    "tags": [
+      "social"
+    ],
+    "minWorkAge": 18,
+    "experienceYears": {
+      "min": 0,
+      "max": 45
+    }
+  },
+  {
+    "id": "professions_072",
+    "title": "Библиотекарь",
+    "origin": "original",
+    "tags": [
+      "social"
+    ],
+    "minWorkAge": 18,
+    "experienceYears": {
+      "min": 0,
+      "max": 45
+    }
+  },
+  {
+    "id": "professions_073",
+    "title": "Актёр",
+    "origin": "original",
+    "tags": [
+      "social"
+    ],
+    "minWorkAge": 18,
+    "experienceYears": {
+      "min": 0,
+      "max": 45
+    }
+  },
+  {
+    "id": "professions_074",
+    "title": "Музыкант",
+    "origin": "original",
+    "tags": [
+      "social"
+    ],
+    "minWorkAge": 18,
+    "experienceYears": {
+      "min": 0,
+      "max": 45
+    }
+  },
+  {
+    "id": "professions_075",
+    "title": "Ведущий мероприятий",
+    "origin": "original",
+    "tags": [
+      "social"
+    ],
+    "minWorkAge": 18,
+    "experienceYears": {
+      "min": 0,
+      "max": 45
+    }
+  },
+  {
+    "id": "professions_076",
+    "title": "Экскурсовод",
+    "origin": "original",
+    "tags": [
+      "social"
+    ],
+    "minWorkAge": 18,
+    "experienceYears": {
+      "min": 0,
+      "max": 45
+    }
+  },
+  {
+    "id": "professions_077",
+    "title": "Тренер",
+    "origin": "original",
+    "tags": [
+      "social"
+    ],
+    "minWorkAge": 18,
+    "experienceYears": {
+      "min": 0,
+      "max": 45
+    }
+  },
+  {
+    "id": "professions_078",
+    "title": "Швея",
+    "origin": "original",
+    "tags": [
+      "social"
+    ],
+    "minWorkAge": 18,
+    "experienceYears": {
+      "min": 0,
+      "max": 45
+    }
+  },
+  {
+    "id": "professions_079",
+    "title": "Художник",
+    "origin": "original",
+    "tags": [
+      "social"
+    ],
+    "minWorkAge": 18,
+    "experienceYears": {
+      "min": 0,
+      "max": 45
+    }
+  },
+  {
+    "id": "professions_080",
+    "title": "Музейный реставратор",
+    "origin": "original",
+    "tags": [
+      "social"
+    ],
+    "minWorkAge": 18,
+    "experienceYears": {
+      "min": 0,
+      "max": 45
+    }
+  },
+  {
+    "id": "professions_discord_001",
+    "title": "Мастер котельной",
+    "tags": [
+      "repair",
+      "insulation"
+    ],
+    "origin": "original",
+    "minWorkAge": 18,
+    "experienceYears": {
+      "min": 0,
+      "max": 45
+    }
+  },
+  {
+    "id": "professions_discord_002",
+    "title": "Инженер-энергетик",
+    "tags": [
+      "engineering",
+      "electrical"
+    ],
+    "origin": "original",
+    "minWorkAge": 22,
+    "experienceYears": {
+      "min": 0,
+      "max": 45
+    }
+  },
+  {
+    "id": "professions_discord_003",
+    "title": "Техник радиосвязи",
+    "tags": [
+      "communications",
+      "radio_operator"
+    ],
+    "origin": "original",
+    "minWorkAge": 18,
+    "experienceYears": {
+      "min": 0,
+      "max": 45
+    }
+  },
+  {
+    "id": "professions_discord_004",
+    "title": "Сотрудник полярной станции",
+    "tags": [
+      "winter_experience",
+      "navigation"
+    ],
+    "origin": "original",
+    "minWorkAge": 21,
+    "experienceYears": {
+      "min": 0,
+      "max": 45
+    }
+  },
+  {
+    "id": "professions_discord_005",
+    "title": "Механик автономных генераторов",
+    "tags": [
+      "repair",
+      "electrical"
+    ],
+    "origin": "original",
+    "minWorkAge": 18,
+    "experienceYears": {
+      "min": 0,
+      "max": 45
+    }
+  },
+  {
+    "id": "professions_discord_006",
+    "title": "Монтажник теплоизоляции",
+    "tags": [
+      "repair",
+      "insulation"
+    ],
+    "origin": "original",
+    "minWorkAge": 18,
+    "experienceYears": {
+      "min": 0,
+      "max": 45
+    }
+  },
+  {
+    "id": "professions_discord_007",
+    "title": "Инструктор зимнего туризма",
+    "tags": [
+      "winter_experience",
+      "navigation"
+    ],
+    "origin": "original",
+    "minWorkAge": 18,
+    "experienceYears": {
+      "min": 0,
+      "max": 45
+    }
+  },
+  {
+    "id": "professions_discord_008",
+    "title": "Кладовщик аварийного запаса",
+    "tags": [
+      "logistics",
+      "food"
+    ],
+    "origin": "original",
+    "minWorkAge": 18,
+    "experienceYears": {
+      "min": 0,
+      "max": 45
+    }
+  }
+]
